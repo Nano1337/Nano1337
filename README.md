@@ -23,14 +23,4 @@ Here are some ideas to get you started:
 - 🥅 2023 Goals: Lead my own research team and contribute more to Open Source projects. I want to help make AI more accessible to everyone!
 - ⚡ Fun fact: I love playing Tetris and watching anime. I also enjoy jamming out to K-pop and 88-rising music. And when I need a break from technology, I like to go on hikes and explore nature. 🎮🌲🌸
 
-### Connect with me:
-
-[<img align="left" alt="haoliyin.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="haoliyin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="HaoliYin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="haoli_yin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[website]: https://www.haoliyin.me
-[twitter]: https://twitter.com/HaoliYin
-[instagram]: https://www.instagram.com/haoli_yin/
-[linkedin]: https://www.linkedin.com/in/haoliyin/
+Please see my [personal website](https://haoliyin.me) for more information and publications!
