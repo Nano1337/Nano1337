@@ -30,12 +30,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="HaoliYin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="haoli_yin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
----
-
-### Github Stats:
-
 [website]: https://www.haoliyin.me
 [twitter]: https://twitter.com/HaoliYin
 [instagram]: https://www.instagram.com/haoli_yin/
