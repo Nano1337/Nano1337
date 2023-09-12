@@ -49,11 +49,6 @@ Here are some ideas to get you started:
 
 ### Github Stats:
 
-
-<img align="left" alt="Nano1337's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nano1337&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nano1337&theme=tokyonight" />
-
 [website]: https://www.haoliyin.me
 [twitter]: https://twitter.com/HaoliYin
 [instagram]: https://www.instagram.com/haoli_yin/
