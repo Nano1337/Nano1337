@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm an AI Researcher specialized in Computer Vision and World Modeling. I like solving complex real-world problems using cutting-edge AI. 
+### I'm an AI Researcher specialized in Computer Vision and Multimodal Representation Learning. I like solving complex real-world problems using cutting-edge AI. 
 
 - 🔭 I’m currently researching and experimenting on semantically-aware image-to-image style modality transfer, representation learning, and multimodal joint embedding spaces as an AI Reseach Scientist Intern at Modern Intelligence and Research Assistant at the Bowden Lab @ Vanderbilt University!
 - 🌱 I’m learning something new every day, whether it's a new ML paper from surfing research Twitter or a new recipe to try out in the kitchen.
